@@ -7,6 +7,7 @@ Cool list libraries for front end developers.
 | 1  | AOS                | https://github.com/michalsnik/aos                 |
 | 2  | vue2-smooth-scroll | https://github.com/Yuliang-Lee/vue2-smooth-scroll |
 | 3  | particles js       | https://github.com/VincentGarreau/particles.js    |
+| 4  | vue-fontawesome    | https://github.com/FortAwesome/vue-fontawesome    |
 
 ## Doing task
 - Find TODO list on issue
